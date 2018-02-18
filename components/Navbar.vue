@@ -4,8 +4,8 @@
       <div class="navbar-brand">
         <a class="navbar-item" href="/">Portfolio</a>
         <button class="button navbar-burger">
-          <span></span>
-          <span></span>
+          <nuxt-link class="navbar-item" to="/">Home</nuxt-link>
+          <nuxt-link class="navbar-item" to="/about">About</nuxt-link>
           <span></span>
         </button>
       </div>
@@ -30,4 +30,5 @@ a.navbar-link.is-active {
   color: #fff;
 }
  */
+ 
 </style>
