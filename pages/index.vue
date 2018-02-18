@@ -1,64 +1,19 @@
+
 <template>
-  <section class="container">
-    <div>
-      <app-logo/>
-      <h1 class="title">
-        portfolio
-      </h1>
-      <h2 class="subtitle">
-        Simple portfolio site
-      </h2>
-      <div class="links">
-        <a
-          href="https://nuxtjs.org/"
-          target="_blank"
-          class="button--green">Documentation</a>
-        <a
-          href="https://github.com/nuxt/nuxt.js"
-          target="_blank"
-          class="button--grey">GitHub</a>
-      </div>
+  <section class="section is-large">
+    <div class="container has-text-centered">
+      <h1 class="title">Hello, my name is Miikka Marin</h1>
+      <h2 class="subtitle">web design enthusiastic from Finland</h2>
+
+      <p id="welcome-text">Welcome to my new (but not finished!) portfolio site. Hope you enjoy my <a href="/projects">work.</a></p>
     </div>
   </section>
 </template>
 
-<script>
-import AppLogo from '~/components/AppLogo.vue'
 
-export default {
-  components: {
-    AppLogo
-  }
-}
-</script>
-
-<style>
-.container {
-  min-height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
-.title {
-  font-family: "Quicksand", "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; /* 1 */
-  display: block;
-  font-weight: 300;
-  font-size: 100px;
-  color: #35495e;
-  letter-spacing: 1px;
-}
-
-.subtitle {
-  font-weight: 300;
-  font-size: 42px;
-  color: #526488;
-  word-spacing: 5px;
-  padding-bottom: 15px;
-}
-
-.links {
-  padding-top: 15px;
+<style scoped>
+#welcome-text {
+  padding-top: 100px;
+  padding-bottom: 50px;
 }
 </style>

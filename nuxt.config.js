@@ -1,4 +1,5 @@
 module.exports = {
+
   /*
   ** Headers of the page
   */
@@ -10,6 +11,9 @@ module.exports = {
       { hid: 'description', name: 'description', content: 'Simple portfolio site' }
     ],
     link: [
+      { rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/bulma/0.6.0/css/bulma.min.css' },
+      { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Work+Sans:300,600' },
+      { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Raleway' },
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
     ]
   },
