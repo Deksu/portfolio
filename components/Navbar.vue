@@ -3,16 +3,13 @@
     <nav class="navbar" role="navigation" aria-label="main navigation">
       <div class="navbar-brand">
         <a class="navbar-item" href="/">Portfolio</a>
+        
+        <button class="button navbar-burger">
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
 
-            <!-- Using a <label /> here -->
-    <label class="nav-toggle" for="nav-toggle-state">
-    <span>test</span>
-    <span></span>
-    <span></span>
-  </label>
-
-  <!-- This checkbox is hidden -->
-  <input type="checkbox" id="nav-toggle-state" />
       </div>
       <div class="navbar-menu">
         <div class="navbar-end">
@@ -26,15 +23,12 @@
   </div>
 </template>
 
+
+<script>
+
+</script>
+
 <style scoped>
-
-#nav-toggle-state {
-  display: none;
-}
-
-#nav-toggle-state:checked ~ .nav-menu {
-  display: block;
-}
 
 /* a.navbar-item:hover, a.navbar-item.is-active,
 a.navbar-link:hover,
