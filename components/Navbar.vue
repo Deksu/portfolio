@@ -5,7 +5,7 @@
         <a class="navbar-item" href="/">Portfolio</a>
 
           <div v-show="isShow"  class="content">
-            <div class="navbar-brand">
+            <div class="navbar-brand flow">
             <a class ="navbar-item" href="/">Home</a>
             <a class ="navbar-item" href="/about">About</a>
             <a class ="navbar-item" href="/projects">Projects</a>
@@ -55,15 +55,16 @@ export default {
   display: flex;
   flex-direction: row;
   justify-content: flex-end;
-  width: 80vw;
+  flex-shrink: 1;
+  width: 100%;
+  margin-left: 10px;
   height: 20px;
 }
 
-@media screen and (min-width: 800px) {
+@media screen and (min-width: 1024px) {
   .content {
     display: none;
   }
-
 }
 /* a.navbar-item:hover, a.navbar-item.is-active,
 a.navbar-link:hover,
