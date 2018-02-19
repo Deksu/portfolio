@@ -3,10 +3,11 @@
     <div class="container has-text-centered">
       <h1 class="title">My Projects</h1>
       <p>
-        Below you can find a few snapshots of my work.
+        Scroll down to see a few snapshots of my work.
       </p>
     </div>
-            <h1 class="title-1">Pizza Online-concept (school project)</h1>
+            <h1 class="title-1">Pizza Online-concept</h1>
+            <h2 class="subtitle-2">School project</h2>
     <div class="snapshot-container">
         <img src="~/static/pizzaonline/frontpage.png" alt="pizzaonline-frontpage" class="snapshot-img" id="image1">
 
@@ -24,8 +25,8 @@
         </div>
                 <div class="snapshot-container-2 last-snapshot-container">
             <div>
-            <h1 class="title-2">Goldsmith's portfolio website</h1>
-            <h2 class="subtitle-2">Personal project (unfinished)</h2>
+            <h1 class="title-2">Goldsmiths' portfolio website</h1>
+            <h2 class="subtitle-2">Personal project (work in progress)</h2>
             </div>
         <img src="~/static/mm/mm-frontpage.png" alt="mm-frontpage" class="snapshot-img" id="image1">
 
