@@ -54,16 +54,22 @@
     border: 3px solid #000;
 }
 
+.snapshot-img {
+    transition: -webkit-transform 0.5s ease;
+    transition: transform 0.5s ease;
+}
+
+
 .snapshot-img:hover {
-    transition: -webkit-transform 0.25s ease;
-    transition: transform 0.25s ease;
+    transition: -webkit-transform 0.5s ease;
+    transition: transform 0.5s ease;
     -webkit-transform: scale(1.2);
     transform: scale(1.2);
 }
 
 .snapshot-img:focus {
-    transition: -webkit-transform 0.25s ease;
-    transition: transform 0.25s ease;
+    transition: -webkit-transform 0.5s ease;
+    transition: transform 0.5s ease;
     -webkit-transform: scale(2);
     transform: scale(2);
 }
