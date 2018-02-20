@@ -64,8 +64,8 @@
 .snapshot-img:focus {
     transition: -webkit-transform 0.25s ease;
     transition: transform 0.25s ease;
-    -webkit-transform: scale(1.6);
-    transform: scale(1.6);
+    -webkit-transform: scale(2);
+    transform: scale(2);
 }
 
 .snapshot-container-2 {
@@ -76,7 +76,6 @@
     align-items: center;
     align-content: center;
     margin: 200px 0px 200px 0px;
-    background-color: #ccc;
 }
 
 .snapshot-container-2 img {
