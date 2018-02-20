@@ -9,11 +9,11 @@
             <h1 class="title-1">Pizza Online-concept</h1>
             <h2 class="subtitle-2">School project</h2>
     <div class="snapshot-container">
-        <img src="~/static/pizzaonline/frontpage.png" alt="pizzaonline-frontpage" class="snapshot-img" id="image1">
+        <img src="~/static/pizzaonline/frontpage.png" alt="pizzaonline-frontpage" class="snapshot-3-img" id="image1">
 
-        <img src="~/static/pizzaonline/signup.png" alt="pizzaonline-signup" class="snapshot-img" id="image2">
+        <img src="~/static/pizzaonline/signup.png" alt="pizzaonline-signup" class="snapshot-3-img" id="image2">
 
-        <img src="~/static/pizzaonline/shopping-cart.png" alt="pizzaonline-shoppingcart" class="snapshot-img" id="image3">
+        <img src="~/static/pizzaonline/shopping-cart.png" alt="pizzaonline-shoppingcart" class="snapshot-3-img" id="image3">
     </div>
 
         <div class="snapshot-container-2">
@@ -40,9 +40,10 @@
     display: flex;
     min-height: 100vh;
     flex-direction: row;
+    flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    margin: 0px 0px 0px 0px;
+    margin: auto;
 }
 .snapshot-container img {
     width: 30%;
@@ -50,6 +51,12 @@
     margin-left: 10px;
     margin-right: 10px;
     border: 8px solid #000;
+}
+
+.snapshot-3-img {
+    min-width: 35vw;
+    min-height: 35vh;
+    margin: 50px 10px 10px 10px;
 }
 .snapshot-container-2 {
     display: flex;
