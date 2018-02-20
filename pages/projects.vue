@@ -56,9 +56,22 @@
 .snapshot-3-img {
     width: 40%;
     height: 60%;
-    margin: 50px 20px 20px 10px;
+    margin: 20px 20px 20px 10px;
     border: 3px solid #000;
+    transition: -webkit-transform 0.25s ease;
+    transition: transform 0.25s ease;
 }
+
+.snapshot-3-img:hover {
+    -webkit-transform: scale(1.2);
+    transform: scale(1.2);
+}
+
+.snapshot-3-img:focus {
+    -webkit-transform: scale(1.2);
+    transform: scale(1.2);
+}
+
 .snapshot-container-2 {
     display: flex;
     min-height: 70vh;
