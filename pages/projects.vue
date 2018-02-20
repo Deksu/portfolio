@@ -16,6 +16,7 @@
         <img src="~/static/pizzaonline/shopping-cart.png" alt="pizzaonline-shoppingcart" class="snapshot-3-img" id="image3">
     </div>
 
+
         <div class="snapshot-container-2">
             <div>
             <h1 class="title-2">F Sharp vinyl store concept</h1>
@@ -38,25 +39,25 @@
 
 .snapshot-container {
     display: flex;
-    min-height: 100vh;
     flex-direction: row;
     flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
+    justify-content: space-around;
+    align-items: flex-start;
     margin: auto;
 }
-.snapshot-container img {
+/* .snapshot-container img {
     width: 30%;
     height: 30%;
     margin-left: 10px;
     margin-right: 10px;
     border: 8px solid #000;
-}
+} */
 
 .snapshot-3-img {
-    min-width: 35vw;
-    min-height: 35vh;
-    margin: 50px 10px 10px 10px;
+    width: 40%;
+    height: 60%;
+    margin: 50px 20px 20px 10px;
+    border: 3px solid #000;
 }
 .snapshot-container-2 {
     display: flex;
