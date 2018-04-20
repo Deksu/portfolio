@@ -11,9 +11,13 @@
             I create.</p>
         </div>
          <div class="text-container">
-             <p>I am fairly new at the world of web design but after studying multiple different programming languages, ways to develop and ways to work, I've found that I enjoy the creation of something new through front end design the most. My on-going project is developing a brand new website for my employer, student union ROTKO.</p>
+             <p>I am fairly new at the world of web design but after studying multiple different programming languages, ways to develop and ways to work, I've found that I enjoy the creation of something new through front-end developing the most.</p>
+                 <br>
+                  <p>My largest project thus far has been developing a completely new website for the Lapland University of Applied Sciences student union ROTKO. Check their soon-to-launch new website
+                   <a href="https://lapinrotko.demo.site" target="_blank">here!</a></p>
              <br>
-             <p>Currently I'm focusing on improving my JavaScript skills and diving deeper into the world of modern frameworks, mainly Vue.js at the moment. This website you are on right now is based on <a href="https://vuejs.org" target="_blank">Vue.js</a> and <a href="https://bulma.io" target="_blank">Bulma</a>, but it's still a work in progress so don't judge it too harshly, pretty please? :)</p>
+             <p>Currently I'm focusing on improving my JavaScript skills and diving deeper into the world of modern frameworks, mainly Vue.js at the moment.
+                  This website you are on right now is based on <a href="https://vuejs.org" target="_blank">Vue.js</a> and <a href="https://bulma.io" target="_blank">Bulma</a>.</p>
          </div>
     </div>
   </section>

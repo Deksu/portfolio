@@ -6,8 +6,11 @@
         Scroll down to see a few snapshots of my work.
       </p>
     </div>
-            <h1 class="title-1">Pizza Online-concept</h1>
-            <h2 class="subtitle-2">School project</h2>
+            <div class="container has-text-centered add-margin-bottom">
+                <h1 class="title-1">Pizza Online-concept</h1>
+                <h2 class="subtitle-2">School project</h2>
+                <a target="_blank" href="https://deksu.github.io/pizzaonline" class="subtitle-2">Live demo</a>
+            </div>
     <div class="snapshot-container">
         <img src="~/static/pizzaonline/frontpage.png" alt="pizzaonline-frontpage" class="snapshot-3 snapshot-img" id="image1">
 
@@ -116,5 +119,9 @@
     font-weight: 300;
     margin: 10px 0px 0px 0px;
     text-align: center;
+}
+
+.add-margin-bottom {
+    margin-bottom: 1em;
 }
 </style>
