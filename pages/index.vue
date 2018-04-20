@@ -5,7 +5,9 @@
       <h1 class="title">Hello, my name is Miikka Marin</h1>
       <h2 class="subtitle">web design enthusiast from Finland</h2>
 
-      <p id="welcome-text">Welcome to my new (but not quite finished!) portfolio site. Hope you enjoy my <a href="/projects">work.</a></p>
+      <p id="welcome-text">Welcome to my portfolio site. Hope you enjoy my <a href="/projects">work.</a></p>
+
+      <p>You can also check my profile on <a href="https://github.com/Deksu" target="_blank">GitHub.</a></p>
     </div>
   </section>
 </template>
