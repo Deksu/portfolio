@@ -18,18 +18,24 @@
 
 <style>
   html {
-    font-family: "Work Sans", Arial, sans-serif;
+    font-family: "Muli", Arial, sans-serif;
+    font-weight: 300;
   }
   h1 {
     font-family: "Work Sans";
     font-weight: 600;
   }
   h2 {
-    font-family: "Work Sans";
+    font-family: "Muli";
     font-weight: 300;
   }
   a {
-    font-family: "Work Sans";
+    font-family: "Muli";
     font-weight: 300;
+  }
+  body {
+    font-family: "Muli";
+    font-weight: 300;
+    font-size: 1.1em;
   }
 </style>

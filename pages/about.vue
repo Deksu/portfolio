@@ -4,18 +4,18 @@
       <h1 class="title">About Me</h1>
       <p>
           My name is Miikka Marin. I originate from Lapland, Finland and I am currently studying at the Lapland University of Applied Sciences.</p>
-          <p>For the past 10 years or so I've called the city of Kemi my home and from here,</p>
+          <p>I've recently moved to Oulu and from here,</p>
         <div class="customcontainer">
             <p>I design. <br>
             I code. <br>
             I create.</p>
         </div>
          <div class="text-container">
-             <p>I am fairly new at the world of web design but after studying multiple different programming languages, ways to develop and ways to work, I've found that I enjoy the creation of something new through front-end developing the most.</p>
-                 <br>
-                  <p>My largest project thus far has been developing a completely new website for the Lapland University of Applied Sciences student union ROTKO. Check their soon-to-launch new website
-                   <a href="https://lapinrotko.demo.site" target="_blank">here!</a></p>
-             <br>
+            <p>I worked as an UX designer (summer trainee) at OP on their mobile apps' UX team during the summer of 2018. I really got to dig deep into the world of UX and UI design and learned so much.</p>
+                <br>
+                <p>I've also developed with a colleague of mine a completely new website for the Lapland University of Applied Sciences student union ROTKO. Check their soon-to-launch new website
+                    <a href="https://lapinrotko.demo.site" target="_blank">here!</a></p>
+                <br>
              <p>Currently I'm focusing on improving my JavaScript skills and diving deeper into the world of modern frameworks, mainly Vue.js at the moment.
                   This website you are on right now is based on <a href="https://vuejs.org" target="_blank">Vue.js</a> and <a href="https://bulma.io" target="_blank">Bulma</a>.</p>
          </div>
@@ -34,6 +34,7 @@
     line-height: 150%;
     text-align: justify;
     margin: 30px 0px 30px 0px;
+    padding: 30px 0px 30px 0px;
 }
 .text-container {
     display: flex;
