@@ -11,9 +11,9 @@
             I create.</p>
         </div>
          <div class="text-container">
-            <p>I worked as an UX designer (summer trainee) at OP on their mobile apps' UX team during the summer of 2018. I really got to dig deep into the world of UX and UI design and learned so much.</p>
+            <p>I worked as an UX designer (summer trainee) at OP on their mobile apps' UX team during the summer of 2018. I really got to dig deep into the world of UX and UI design and learned so much about UX and UI in general.</p>
                 <br>
-                <p>I've also developed with a colleague of mine a completely new website for the Lapland University of Applied Sciences student union ROTKO. Check their soon-to-launch new website
+                <p>While I was working for ROTKO, I developed (with a colleague of mine) a completely new website for the Lapland University of Applied Sciences student union ROTKO. Check their soon-to-launch new website
                     <a href="https://lapinrotko.demo.site" target="_blank">here!</a></p>
                 <br>
              <p>Currently I'm focusing on improving my JavaScript skills and diving deeper into the world of modern frameworks, mainly Vue.js at the moment.

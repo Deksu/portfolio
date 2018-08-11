@@ -13,11 +13,11 @@
         <div class="container text-container has-text-left padded-container">
             <p>This is a portfolio website designed for my dad, Matti Marin, who is a goldsmith working at Taigakoru. My dad wanted a personal website to showcase his jewelry designs and contain some information about himself as well.</p>
             
-            <p>The basic design idea was to create a single page website with three main parts: The landing/hero section with a large image to attract the attention, gallery section to showcase the designs and a biography section to tell me about the goldsmith himself.</p>
+            <p>The basic design idea was to create a single page website with three main parts: The landing/hero section with a large image to attract the attention, gallery section to showcase the designs and a biography section to tell the visitor something about the goldsmith himself.</p>
 
             <p>Between these sections, the transition is smooth while scrolling, showing one section at a time. To showcase this function, I added an animated icon to the main landing page to inform the user about this functionality.</p>
             
-            <p>The site will be based on Vue and Nuxt, hosted on Netlify. It is not published yet but I will be updating this page with a link once its up and running!</p>
+            <p>The site will be based on Vue and Nuxt and hopefully launching later this year.</p>
         </div>
 
     </section>

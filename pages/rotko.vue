@@ -14,11 +14,11 @@
         <div class="container text-container has-text-left padded-container">
             <p>Me and my colleague at the time were tasked on creating a new website for our employer, student union ROTKO. The goal was to create a modern looking website that could be easily updated via the CMS. We chose WordPress as the CMS for its wide usage, huge plugin selection and that it is easy(-ish!) to learn how to use.</p>
             
-            <p>The service is based on the wonderful Finnish service called <a href="https://pilvia.com/" target="_blank">Pilvia</a>, they take care of the hosting and basically take care of the "foundation".
-             My main task on this whole project was to be the main developer and designer. I designed the interface and did a lot of the needed custom CSS and JavaScript coding.
-              The site is based on the X Pro theme builder, so we didn't need to program the whole layout but we did build it using the tools provided within the theme, largely based on using Flexbox.</p>
+            <p>The service is based on the wonderful Finnish service called <a href="https://pilvia.com/" target="_blank">Pilvia</a>, they take care of the hosting and basically act as the "foundation".
+             My main task throughout this whole project was to be the main developer and designer. I designed the interface and did a lot of the needed custom CSS and JavaScript coding.
+              The site is based on the X Pro theme builder, so while we didn't need to program the whole layout from the scratch, we did build it without a ready template using the tools provided within the theme.</p>
 
-            <p>With these tools and the help from my colleague Jussi, we managed to create a modern, fresh looking website with lots of expansion possibilites with the use of WordPress as its foundation.</p>
+            <p>With these tools and the help from my colleague Jussi, we managed to create a modern, fresh looking website with lots of expansion possibilites with the use of WordPress as the core of the site.</p>
             
             <p>You can view the soon-to-launch website by clicking the button below.</p>
         </div>
