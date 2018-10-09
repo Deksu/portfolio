@@ -30,6 +30,8 @@
     data()  {
       return {
         showNav: false
+        // todo: Add a middleware function to execute shownav functionality on page change! Or use watch route method, see: https://cmty.app/nuxt/nuxt.js/issues/c2578#comment-5abbc4c986a34ad2198a6bca
+        
       }
     }
   }

@@ -22,6 +22,13 @@ module.exports = {
   ** Customize the progress bar color
   */
   loading: { color: '#3B8070' },
+
+  /* Added Google Analytics module */
+  modules: [
+    ['@nuxtjs/google-analytics', {
+      id: 'UA-127199651-1'
+    }]
+ ],
   /*
   ** Build configuration
   */
