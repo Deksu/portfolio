@@ -11,10 +11,10 @@
             I create.</p>
         </div>
          <div class="text-container">
-            <p>I am currently working as a UX designer (trainee) at OP on their mobile apps' UX team.</p>
+            <p>I am currently working as a UX designer (trainee) at Osuuspankki on their mobile app UX design team.</p>
                 <br>
-                <p>While I was working for ROTKO, I developed (with a colleague of mine) a completely new website for the Lapland University of Applied Sciences student union ROTKO. Check their soon-to-launch new website
-                    <a href="https://lapinrotko.demo.site" target="_blank">here!</a></p>
+                <p>While I was working for ROTKO, I developed (with a colleague of mine) a completely new website for the Lapland University of Applied Sciences student union ROTKO. Check their new website
+                    <a href="https://lapinrotko.fi" target="_blank">here!</a></p>
                 <br>
              <p>Currently I'm focusing on learning pretty much all I can about UI and UX design as well as improving my JavaScript skills and diving deeper into the world of modern frameworks, mainly Vue.js at the moment.
                   This website you are on right now is based on <a href="https://vuejs.org" target="_blank">Vue.js</a> and <a href="https://bulma.io" target="_blank">Bulma</a>.</p>
