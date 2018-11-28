@@ -4,16 +4,14 @@
       <div class="navbar-brand">
         <a class="navbar-item" href="/">Home</a>
 
-        <div class="navbar-burger" @click="showNav = !showNav" :class="{ 'is-active': showNav }">
+        <div id="burger" class="navbar-burger" @click="showNav = !showNav" :class="{ 'is-active': showNav }">
           <span></span>
           <span></span>
           <span></span>
         </div>
       </div>
 
-
-
-      <div class="navbar-menu" :class="{ 'is-active': showNav }">
+      <div id="navbarID" class="navbar-menu" @click="toggleNav()" :class="{ 'is-active': showNav }">
         <div class="navbar-end">
           <nuxt-link class="navbar-item" to="/about">About</nuxt-link>
           <nuxt-link class="navbar-item" to="/portfolio">Portfolio</nuxt-link>
@@ -30,8 +28,12 @@
     data()  {
       return {
         showNav: false
-        // todo: Add a middleware function to execute shownav functionality on page change! Or use watch route method, see: https://cmty.app/nuxt/nuxt.js/issues/c2578#comment-5abbc4c986a34ad2198a6bca
-        
+      }
+    },
+    methods: {
+      // Toggles navigation divs visibility on mobile. Different kind of a toggle needed in Nuxt. Added delay to "smooth" it out a bit.
+      toggleNav() {
+        setTimeout(() => this.showNav = false, 100);
       }
     }
   }

@@ -3,7 +3,7 @@
     <div class="container has-text-centered">
       <h1 class="title">Portfolio</h1>
       <p>
-        Images and background info about my projects.
+        Images and background info about some my projects.
       </p>
     </div>
         <div class="snapshot-container-2 has-text-centered">
@@ -73,15 +73,15 @@
 .snapshot-img:hover {
     transition: -webkit-transform 0.5s ease;
     transition: transform 0.5s ease;
-    -webkit-transform: scale(1.2);
-    transform: scale(1.2);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
 }
 
 .snapshot-img:focus {
     transition: -webkit-transform 0.5s ease;
     transition: transform 0.5s ease;
-    -webkit-transform: scale(2);
-    transform: scale(2);
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
 }
 
 .snapshot-container-2 {
