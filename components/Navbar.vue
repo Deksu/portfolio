@@ -42,4 +42,8 @@
 
 <style scoped>
 
+/* Turn navbar bg transparent for that sweet, sweet minimalism */
+.navbar-item:hover {
+  background-color: transparent;
+}
 </style>
