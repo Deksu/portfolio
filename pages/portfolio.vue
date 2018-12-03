@@ -3,7 +3,7 @@
     <div class="container has-text-centered">
       <h1 class="title">Portfolio</h1>
       <p>
-        Images and background info about some my projects.
+        Images and background info about some of my projects.
       </p>
     </div>
         <div class="snapshot-container-2 has-text-centered">

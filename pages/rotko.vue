@@ -23,7 +23,7 @@
             <p>You can view the soon-to-launch website by clicking the button below.</p>
         </div>
         <div class="container has-text-centered added-padding-bottom">
-            <a target="_blank" href="https://lapinrotko.demo.site/" class="button is-link is-medium subtitle-2">View the page</a>
+            <a target="_blank" href="https://lapinrotko.fi/" class="button is-link is-medium subtitle-2">View live</a>
         </div>
     
 
