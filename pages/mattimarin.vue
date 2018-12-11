@@ -43,7 +43,7 @@
     border: 3px solid #000;
 }
 
-.snapshot-img {
+/* .snapshot-img {
     transition: -webkit-transform 0.5s ease;
     transition: transform 0.5s ease;
 }
@@ -60,7 +60,7 @@
     transition: transform 0.5s ease;
     -webkit-transform: scale(1.5);
     transform: scale(1.5);
-}
+} */
 
 .text-container p {
     margin-bottom: 1em;

@@ -20,7 +20,7 @@
 
             <p>With these tools and the help from my colleague Jussi, we managed to create a modern, fresh looking website with lots of expansion possibilites with the use of WordPress as the core of the site.</p>
             
-            <p>You can view the soon-to-launch website by clicking the button below.</p>
+            <p>You can view their new website by clicking the button below.</p>
         </div>
         <div class="container has-text-centered added-padding-bottom">
             <a target="_blank" href="https://lapinrotko.fi/" class="button is-link is-medium subtitle-2">View live</a>
@@ -55,7 +55,7 @@
     border: 3px solid #000;
 }
 
-.snapshot-img {
+/* .snapshot-img {
     transition: -webkit-transform 0.5s ease;
     transition: transform 0.5s ease;
 }
@@ -72,7 +72,7 @@
     transition: transform 0.5s ease;
     -webkit-transform: scale(1.5);
     transform: scale(1.5);
-}
+} */
 
 .preview-img-container {
     display: flex;

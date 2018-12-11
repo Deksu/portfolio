@@ -7,14 +7,27 @@
         </div>
 
         <div class="container text-container has-text-left padded-container">
-            <p>The goal of this project was to create a functional website for a hypothetical pizza place. The site is in Finnish.</p>
+            <p>The goal of this project was to create a functional website for a hypothetical pizza place. Scope of the project was not to create a 100 &percnt; realistic service with every functionality working, the focus was in creating the main functionalities of such a service.</p> 
+           
+            <p> The most vital parts are working, such as:</p>
+
+                <li>Sign up &amp; login </li>
+                <li>Listing menu items</li>
+                <li>A working shopping cart &amp; ordering system</li>
+                <li>Admin section with functionality to add and edit menu items etc.</li>
+
+            <br>
             
-            <p>It's based on HTML, CSS, JavaScript and PHP. The database is a simple MySQL database containing data like user info, employee info, order info and info about the menu items.</p>
-            
-            <p>The live demo is not connected to this database, it's purpose is to demo the service and the user interface.</p>
+            <p>The site is based on HTML, CSS, JavaScript and PHP. The database is a simple MySQL database containing data like user info, employee info, order info and info about the menu items.
+                 Please note that on the demo, some of the food items are just dummy data and can't be added to the cart. You also need to be signed in to enter the final order (use dummy data while signing up if you want to try this functionality out!).</p>
+
+            <p>Check the live demo page which is connected to the MySQL database.</p>
         </div>
         <div class="container has-text-centered added-padding-bottom">
-            <a target="_blank" href="https://deksu.github.io/pizzaonline" class="button is-link is-medium subtitle-2">View live demo</a>
+
+            <a target="_blank" href="http://pizzaonline.epizy.com/pizzaonline-php" class="button is-link is-medium subtitle-2">View demo</a>
+
+            <!-- HIDDEN GITHUB PAGE LINK <a target="_blank" href="https://deksu.github.io/pizzaonline" class="button is-link is-medium subtitle-2">View live demo</a> -->
         </div>
     
 
@@ -46,7 +59,7 @@
     border: 3px solid #000;
 }
 
-.snapshot-img {
+/* .snapshot-img {
     transition: -webkit-transform 0.5s ease;
     transition: transform 0.5s ease;
 }
@@ -63,7 +76,7 @@
     transition: transform 0.5s ease;
     -webkit-transform: scale(1.5);
     transform: scale(1.5);
-}
+} */
 
 .text-container p {
     margin-bottom: 1em;

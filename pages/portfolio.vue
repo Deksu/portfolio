@@ -64,7 +64,7 @@
     border: 3px solid #000;
 }
 
-.snapshot-img {
+/* .snapshot-img {
     transition: -webkit-transform 0.5s ease;
     transition: transform 0.5s ease;
 }
@@ -82,7 +82,7 @@
     transition: transform 0.5s ease;
     -webkit-transform: scale(1.5);
     transform: scale(1.5);
-}
+} */
 
 .snapshot-container-2 {
     display: flex;
@@ -148,16 +148,16 @@
 .mobile-preview-img {
     min-width: 300px;
     min-width: 300px;
-    transition: -webkit-transform 0.5s ease;
-    transition: transform 0.5s ease;
+    /* transition: -webkit-transform 0.5s ease;
+    transition: transform 0.5s ease; */
 }
 
-.mobile-preview-img:focus {
+/* .mobile-preview-img:focus {
     transition: -webkit-transform 0.5s ease;
     transition: transform 0.5s ease;
     -webkit-transform: scale(3);
     transform: scale(3);
-}
+} */
 
 
 </style>
