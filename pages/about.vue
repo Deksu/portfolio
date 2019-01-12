@@ -4,19 +4,18 @@
       <h1 class="title">About Me</h1>
       <p>
           My name is Miikka Marin. I originate from Lapland, Finland and I am currently studying at the Lapland University of Applied Sciences.</p>
-          <p>I've recently moved to Oulu and from here,</p>
+          <p>I am currently living in Oulu and from here,</p>
         <div class="customcontainer">
             <p>I design. <br>
             I code. <br>
             I create.</p>
         </div>
          <div class="text-container">
-            <p>I am currently working as a UX designer (trainee) at Osuuspankki on their mobile app UX design team.</p>
+            <p>I am currently working as a web developer at <a href="https://designinspis.fi" target="_blank">Design Inspis.</a></p>
                 <br>
-                <p>While I was working for ROTKO, I developed (with a colleague of mine) a completely new website for the Lapland University of Applied Sciences student union ROTKO. Check their new website
-                    <a href="https://lapinrotko.fi" target="_blank">here!</a></p>
+                <p>Last year I worked for Osuuspankki on their OP-mobile application as a UX Designer.</p>
                 <br>
-             <p>Currently I'm focusing on learning pretty much all I can about UI and UX design as well as improving my JavaScript skills and diving deeper into the world of modern frameworks, mainly Vue.js at the moment.
+             <p>Outside of work, personal projects and other hobbies I am focusing on improving my JavaScript skills and diving deeper into the world of modern frameworks, mainly Vue.js at the moment.
                   This website you are on right now is based on <a href="https://vuejs.org" target="_blank">Vue.js</a> and <a href="https://bulma.io" target="_blank">Bulma</a>.</p>
          </div>
     </div>
